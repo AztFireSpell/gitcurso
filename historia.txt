@@ -1,3 +1,5 @@
 Hola!, Soy Alonso Dìaz
 
 Tengo una historia de amor-odio con mi computadora
+
+Yo programo en PHP pero creo que puedo aprender otro lenguaje.
